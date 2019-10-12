@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tryreact/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tryreact/static/js/main.decd6243.chunk.js",
+    "main.js.map": "/tryreact/static/js/main.decd6243.chunk.js.map",
+    "runtime-main.js": "/tryreact/static/js/runtime-main.88e158c9.js",
+    "runtime-main.js.map": "/tryreact/static/js/runtime-main.88e158c9.js.map",
+    "static/js/2.21a41806.chunk.js": "/tryreact/static/js/2.21a41806.chunk.js",
+    "static/js/2.21a41806.chunk.js.map": "/tryreact/static/js/2.21a41806.chunk.js.map",
+    "index.html": "/tryreact/index.html",
+    "precache-manifest.0e4925b40c34e76bca2b5d4d1f1ac572.js": "/tryreact/precache-manifest.0e4925b40c34e76bca2b5d4d1f1ac572.js",
+    "service-worker.js": "/tryreact/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tryreact/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/tryreact/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88e158c9.js",
+    "static/js/2.21a41806.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.decd6243.chunk.js"
+  ]
+}

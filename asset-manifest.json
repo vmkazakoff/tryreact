@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tryreact/static/css/main.04010382.chunk.css",
+    "main.css": "/tryreact/static/css/main.12913372.chunk.css",
     "main.js": "/tryreact/static/js/main.afee56dc.chunk.js",
     "main.js.map": "/tryreact/static/js/main.afee56dc.chunk.js.map",
     "runtime-main.js": "/tryreact/static/js/runtime-main.88e158c9.js",
@@ -8,14 +8,14 @@
     "static/js/2.d61d0a38.chunk.js": "/tryreact/static/js/2.d61d0a38.chunk.js",
     "static/js/2.d61d0a38.chunk.js.map": "/tryreact/static/js/2.d61d0a38.chunk.js.map",
     "index.html": "/tryreact/index.html",
-    "precache-manifest.dd3e9619da882b9af529ffc9f8f97222.js": "/tryreact/precache-manifest.dd3e9619da882b9af529ffc9f8f97222.js",
+    "precache-manifest.37856b634b359ae38f01072dfb40e979.js": "/tryreact/precache-manifest.37856b634b359ae38f01072dfb40e979.js",
     "service-worker.js": "/tryreact/service-worker.js",
-    "static/css/main.04010382.chunk.css.map": "/tryreact/static/css/main.04010382.chunk.css.map"
+    "static/css/main.12913372.chunk.css.map": "/tryreact/static/css/main.12913372.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.88e158c9.js",
     "static/js/2.d61d0a38.chunk.js",
-    "static/css/main.04010382.chunk.css",
+    "static/css/main.12913372.chunk.css",
     "static/js/main.afee56dc.chunk.js"
   ]
 }
